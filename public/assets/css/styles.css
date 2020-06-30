@@ -18,8 +18,8 @@ td, th {
   padding: 8px;
 }
 
-tr:nth-child(even) {
-  background-color: #dddddd;
+th, .purple {
+  color: #6666ff;
 }
 
 .error {
@@ -50,49 +50,11 @@ tr:nth-child(even) {
   margin: 0 auto;
 }
 
+canvas {
+  margin-top: 50px;
+}
+
 /* My CSS */
-
-li {
-  padding: 5px;
-  margin: 5px;
-  color: #f9f9f9;
-  background: #858585;
-  list-style: none;
-  display: flex;
-  justify-content: space-between;
-}
-
-.label {
-  font-weight: bold;
-}
-
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
-}
-
-.form-group {
-  margin-bottom: 5px;
-}
-
-.color1 {
-  color: #f9f9f9;
-}
-
-.btn-primary {
-  background-color: #c500c5;
-}
-
-.burger {
-  width: 40%;
-}
-
-.burger-cols {
-  background-color: #151515;
-}
-
-/* Portfolio Styling */
 body {
   background-color: #f9f9f9;
 }
@@ -109,6 +71,12 @@ div {
 
 .container {
   position: relative;
+}
+
+.wrapper {
+  background-color: #151515;
+  margin-top: 50px;
+  color: white;
 }
 
 .navbar {
