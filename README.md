@@ -1,4 +1,4 @@
-# Workout Tracker
+# Budget Tracker
 
 ![app screenshot](./images/LiveApp_ScreenShot.png)
 
@@ -17,19 +17,20 @@
 
 ### Description
 
-Workout Tracker is an application to track the specific details of your workout exercises, like duration, distance, reps, weight, and more. Keep track of your progress over time with detailed charts to display the data.
+Budget Tracker is a web application to track your income & expenses. It's especially helpful when traveling due to the offline functionality. When you're offline, you can keep tracking your transactions and the application will sync when you get a connection again.
 
 ---
 
 ### How to Use
 
-Simply open the application in your browser to start keeping track of your workouts.
+1. [Open the application](https://shiftymitch-budget-tracker.herokuapp.com/) in your browser.
+2. Add a transaction name & amount, then click +Add or -Subtract to add it to your budget.
 
 ---
 
 ### Installation
 
-Workout Tracker is live [here](https://shiftymitch-workout-tracker.herokuapp.com/)
+Budget Tracker is live [here](https://shiftymitch-budget-tracker.herokuapp.com/)
 
 ---
 
@@ -37,7 +38,7 @@ Workout Tracker is live [here](https://shiftymitch-workout-tracker.herokuapp.com
 
 [Express](https://expressjs.com/)\
 [Mongoose](https://mongoosejs.com/)\
-[Node.js](https://nodejs.org/en/)\
+[IndexedDB](https://javascript.info/indexeddb)
 
 ---
 
