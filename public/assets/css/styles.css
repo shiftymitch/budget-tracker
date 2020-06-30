@@ -172,7 +172,7 @@ div {
   min-width: 50rem;
 }
 
-.email-button, .contact-button {
+.email-button, .contact-button, .delete-button {
   background-color: #151515;
   font-weight: bolder;
   color: #f9f9f9;
@@ -183,6 +183,6 @@ div {
 }
 
 .email-button:hover {
-  background-color: #f9f9f9;
+  background-color: #6666ff;
   color: #151515;
 }
